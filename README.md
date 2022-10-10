@@ -23,10 +23,10 @@ From there, It was onwards and upwards. In 2018, I helped lead FRC 4145 to our f
 In the 2021 - 2022 school year, I also worked on a robotic system for my capstone project. The goal of the system was to serve as an automatic football throwing machine that could track and throw to a human player! Heres another cool demo of the project in action!
 <br>
 
-[![Conqueror Demo](http://img.youtube.com/vi/HK9q2iKnwtY/0.jpg)](http://www.youtube.com/watch?v=HK9q2iKnwtY "Conqueror Demo")
+[![Conqueror Demo](http://img.youtube.com/vi/qrbtZltHI-U/0.jpg)](http://www.youtube.com/watch?v=qrbtZltHI-U "Capstone Demo")
 
 <br>
-I was responsible for the development of the software as well as the mechanical design of the system which had to carry 26 pounds during operation (largely due to the wheels). The code I developed in C++ and python using the ROS2 stack is located under our captsone teams ![github organization](https://github.com/rCapstoneBets).
+I was responsible for the development of the software as well as the mechanical design of the system which had to carry 26 pounds during operation (largely due to the wheels). The code I developed in C++ and python using the ROS2 stack is located under our captsone teams ![ github organization ](https://github.com/rCapstoneBets) .
 
 ## Ohio State Underwater Robotics
 
