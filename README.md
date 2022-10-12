@@ -33,5 +33,5 @@ I was responsible for the development of the software as well as the mechanical 
 ![github organization](https://github.com/rCapstoneBets).
 
 ## Ohio State Underwater Robotics
-Last year, I was also had a leading role in developing our Riptide Vehicle software stack in ROS2. It was the first Vehicle to compete in the international competition called ![RoboSub](https://robosub.org/programs/2022/) using ROS2. Our sub won 10th in autonomy (we certaily learned a few lessons about maintainability) and we also took home 3rd place for our documentation which I also helped create! This year I am heading the software team and driving developments in our user experience, simulation, control, and overall documentation of the systems onboard our robot.
+Last year, I was also had a leading role in developing our Riptide Vehicle software stack in ROS2. It was the first Vehicle to compete in the international competition called ![RoboSub]( https://robosub.org/programs/2022 ) using ROS2. Our sub won 10th in autonomy (we certaily learned a few lessons about maintainability) and we also took home 3rd place for our documentation which I also helped create! This year I am heading the software team and driving developments in our user experience, simulation, control, and overall documentation of the systems onboard our robot.
 
