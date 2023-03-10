@@ -1,5 +1,3 @@
-🚧 This is still under construction. Not everything is fully set up yet! 🚧
-
 ![image](https://user-images.githubusercontent.com/5054270/194729573-bc2610b5-53e0-450f-8ebd-9468c2e0dec0.jpg)
 
 <p align="center"> 
