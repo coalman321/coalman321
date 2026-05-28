@@ -11,7 +11,7 @@
       <h3>TBD Racer</h3>
       Built a fully autonomous off-road machine from the ground up with a small team. Led the electronics design and low-level control systems, and developed the mapping and low-level planning interfaces.
       <br><br>
-      <img width="2068" height="1206" alt="IMG_8248" src="https://github.com/user-attachments/assets/3fec162a-adda-42f1-bb9a-1cbcec70fbd0" />
+      <img src="https://github.com/user-attachments/assets/3fec162a-adda-42f1-bb9a-1cbcec70fbd0" width="240" alt="TBD Racer">
       <br><br>
       <a href="https://github.com/tbd-racer">github.com/tbd-racer</a>
     </td>
